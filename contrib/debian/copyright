@@ -4,16 +4,19 @@ Upstream-Contact: Satoshi Nakamoto <satoshin@gmx.com>
  irc://#bitcoin@freenode.net
 Source: https://github.com/bitcoin/bitcoin
 
+
 Files: *
 Copyright: 2009-2020, Bitcoin Core Developers
 License: Expat
 Comment: The Bitcoin Core Developers encompasses the current developers listed on bitcoin.org,
          as well as the numerous contributors to the project.
 
+
 Files: debian/*
 Copyright: 2010-2011, Jonas Smedegaard <dr@jones.dk>
            2011, Matt Corallo <matt@bluematt.me>
 License: GPL-2+
+
 
 Files: src/secp256k1/build-aux/m4/ax_jni_include_dir.m4
 Copyright: 2008 Don Anderson <dda@sleepycat.com>
