@@ -1,5 +1,5 @@
 ---
-name: "litecoin-linux-0.18"
+name: "zeatacoin-linux-0.18"
 enable_cache: true
 suites:
 - "bionic"
@@ -32,8 +32,8 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/litecoin-project/litecoin.git"
-  "dir": "litecoin"
+- "url": "https://github.com/zeatacoin-project/zeatacoin.git"
+  "dir": "zeatacoin"
 files: []
 script: |
   set -e -o pipefail
